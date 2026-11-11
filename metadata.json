@@ -1,0 +1,6 @@
+{
+  "name": "NeuroScan AI - Brain Tumor Detection",
+  "description": "Educational Deep Learning platform and Streamlit + TensorFlow CNN workspace for brain MRI tumor detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

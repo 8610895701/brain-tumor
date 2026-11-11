@@ -1,0 +1,8 @@
+# Brain Tumor Detection Requirements
+# Compatible with Python 3.12, macOS, Linux, and Windows
+
+streamlit>=1.35.0
+tensorflow>=2.16.1
+numpy>=1.26.0
+pillow>=10.3.0
+matplotlib>=3.8.0
